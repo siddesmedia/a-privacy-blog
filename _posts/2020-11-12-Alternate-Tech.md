@@ -13,15 +13,6 @@ Normally, alt-tech puts privacy first. We can obviously see that with the sites 
 Anyway, we created this blog to share our alt-tech and privacy-first view. If you like, go ahead and signup at [siddes.com](https://siddes.com). Its free and does not even require an email!
 
 ---
-{: data-content="discussions"}
-
-This article has been discussed here:
-- [lobste.rs](#)
-- [/r/webdev](#)
-
-Feel free to reach out at my email to leave feedback and talk about the article.
-
----
 {: data-content="footnotes"}
 
 [^1]: [Wikipedia Post](https://en.wikipedia.org/wiki/Alt-tech)
