@@ -3,6 +3,7 @@ layout: post
 title: About
 ---
 
-This is an example page!
+This is a privacy blog. A blog about privacy and alt-tech.
 
-Actually, it has the same layout of a post...
+Links
+[instagram](https://instagram.com/siddesdotcom)[github](https://github.com/siddesmedia)
