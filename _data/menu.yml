@@ -2,13 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    url: false
-    entries:
-      - title: github
-        url: https://github.com/siddesmedia/a-privacy-blog
-
   - title: posts
     post_list: true
     url: false
     entries: false
+
+  - title: info
+    url: false
+    entries:
+      - title: about
+        url: /about
+        
+      - title: instagram
+        url: https://instagram.com/siddesdotcom
+        
+      - title: github
+        url: https://github.com/siddesmedia/a-privacy-blog
