@@ -27,9 +27,9 @@ your own music, make your own websites, and create and upload your thoughts to a
 regulations like, limited internet access, limited websites, not being allowed to make your own content?
 
 ## Read More
-Here is some places where you can read more on the article:
-https://www.eff.org/deeplinks/2020/12/disastrous-copyright-proposal-goes-straight-our-naughty-list
-https://www.eff.org/deeplinks/2020/12/case-act-hidden-coronavirus-relief-bill-just-beginning-next-copyright-battle
-https://www.mlanet.org/blog/take-action-to-oppose-the-case-act-of-2019
+Here is some places where you can read more on the article:<br>
+[https://www.eff.org/deeplinks/2020/12/disastrous-copyright-proposal-goes-straight-our-naughty-list](https://www.eff.org/deeplinks/2020/12/disastrous-copyright-proposal-goes-straight-our-naughty-list)<br>
+[https://www.eff.org/deeplinks/2020/12/case-act-hidden-coronavirus-relief-bill-just-beginning-next-copyright-battle](https://www.eff.org/deeplinks/2020/12/case-act-hidden-coronavirus-relief-bill-just-beginning-next-copyright-battle)<br>
+[https://www.mlanet.org/blog/take-action-to-oppose-the-case-act-of-2019](https://www.mlanet.org/blog/take-action-to-oppose-the-case-act-of-2019)
 
 #### The Siddes Team
